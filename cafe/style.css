@@ -1,0 +1,70 @@
+body {
+  background-image:url(https://images.pexels.com/photos/54455/cook-food-kitchen-eat-54455.jpeg?cs=srgb&dl=pexels-pixabay-54455.jpg&fm=jpg);
+  background-size: 1500px;
+}
+
+
+.menu {
+  width: 80%;
+  background-color: rgb(222, 239, 239);
+  margin-left: auto;
+  margin-right:  auto;
+  margin-top: 50px;
+  padding: 20px;
+  max-width: 500px;
+}
+
+.established {
+  font-style: italic;
+  margin-top: 2px;
+}
+h1 {
+  margin-bottom: 0;
+}
+h1, h2, p {
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.list p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.item {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 20%;
+ 
+  
+}
+
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+a {
+  text-decoration: dotted;
+}
+
+a:active{
+  color: lightblue;
+}
+
+a:visited {
+  color: blue;
+}
+a:hover {
+  color: azure;
+}
